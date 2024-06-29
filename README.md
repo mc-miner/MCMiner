@@ -60,41 +60,7 @@
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
    
-   &emsp;&emsp;ARM:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-   ```
-
-   &emsp;&emsp;ARMV7:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
-   ```
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **Windows安装**
-
-   <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
-
-   ```sh
-     https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
-   ```
-
-   <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
-
-   <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
-
-   </td>
-   </tr>   
-   <tr>
-   <td>
   
 ### 👉 **支持的算法及币种**
 
@@ -166,73 +132,6 @@
 
 <span id="liaotian"></span>
 
-### 👉 **加入聊天组**
-
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-
-<p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **特别感谢**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/poolin.svg" alt="Logo" width="100">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/hd_logo.png" alt="Logo" width="100">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/image/antpool.png" alt="Logo" width="100">
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢以上矿池在一定范围内提供了技术支持😊</p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-<span id="gengxin"></span>
-
-### 👉 **更新日志**
-
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">点击查看更新日志</a>
-
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-<span id="dingzhi"></span>
-
-### 👉 **定制专属版本说明**
-
-   <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-   <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **端口导入、导出**
-
-   <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
-
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a></p>
-
-   </td>
-   </tr>
-
-   <tr>
-   <td>
 
 ### 👉 **Other issues**
 
@@ -244,13 +143,4 @@
 </table>
 
 
-
-
-[rustminersystem.io]: https://github.com/EvilGenius-dot/RustMinerSystem
-[rustminersystem.io-badge]: https://img.shields.io/badge/RustMinerSystem-v3.9.94-green?logo=rust
-[downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
-[releases]: https://github.com/EvilGenius-dot/RustMinerSystem/releases
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
-[stars-shield]: https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg?style=flat
-[stars-url]: https://github.com/EvilGenius-dot/RustMinerSystem/stargazers
 
