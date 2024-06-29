@@ -50,7 +50,7 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-     bash <(curl -s -L https://github.com/mc-miner/MCMiner/blob/main/install.sh)
+     bash <(curl -s -L https://github.com/mc-miner/MCMiner/raw/main/install.sh)
    ```
 
    
