@@ -7,32 +7,7 @@
 <img src="/image/1.png" alt="Logo">
 
 <br>
-<br>
 
-<a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n/zh-EN">English</a>｜<a href="https://github.com/EvilGenius-dot/RustMinerSystem">简体中文</a> | <a href="https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/Readme/i18n/zh-RU">Русский язык</a>
-
-<a href="#dingzhi">
-   <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
-</a>
-<a href="#anzhuang">
-   <img src="https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#liaotian" target="_blank">
-   <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E8%81%8A%E5%A4%A9-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#gengxin" target="_blank">
-   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%F0%9F%91%88-00b9ff">
-</a>
-<a href="https://github.com/EvilGenius-dot/RMS" target="_blank">
-   <img src="https://img.shields.io/badge/RMS%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF-%F0%9F%91%88-00b9ff">
-</a>
-
-
-
-[![RustMinerSystem][rustminersystem.io-badge]][rustminersystem.io]
-[![Stargazers][stars-shield]][stars-url]
-
-</div>
 
 <table>
    <tr>
