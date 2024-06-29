@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.94"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/83/linux"
+DOWNLOAD_HOST="https://github.com/mc-miner/MCMiner/tree/main/linux"
 ORIGIN_EXEC="MCMiner-${VERSION}"
 
 SERVICE_NAME="MCMinerservice"
