@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.94"
+VERSION="4.1.3"
 DOWNLOAD_HOST="https://github.com/mc-miner/MCMiner//raw/main/linux"
 ORIGIN_EXEC="MCMiner-${VERSION}"
 
