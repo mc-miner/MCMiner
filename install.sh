@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.6.4"
+VERSION="5.0.0"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/83/linux"
 ORIGIN_EXEC="MCMiner-${VERSION}"
 
